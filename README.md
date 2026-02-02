@@ -8,7 +8,9 @@ This repository contains the assessment of migrating a two-tier web application 
 ## **Repository Structure**
 
 ├── README.md # This file - project overview and methodology
+
 ├── aws_waf_caf_assessment.md # Comprehensive report
+
 └── architecture_diagram.png # Visual representation of the improved AWS architecture
 
 
